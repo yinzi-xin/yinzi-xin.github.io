@@ -11,7 +11,7 @@ menu:
 
 projects:
 - {name: 'Photonic Lantern Nulling',   url: 'pln'}
-- {name: 'Speckle Nulling',   url: 'sn'}
+- {name: 'Speckle Nulling Through a Single-Mode Fiber',   url: 'sn'}
 - {name: 'Coherent Light Reconstruction', url: 'clr'}
 - {name: 'Coronagraphic Post-processing',  url: 'observables'}
 - {name: 'Deformable Mirror Demonstration Mission',  url: 'demi'}
@@ -21,7 +21,7 @@ projects:
 
 social:
 - {icon: 'github',    link: 'https://github.com/yinzi-xin'}
-- {icon: 'envelope',  link: 'mailto:mailto:yxin@caltech.edu'}
+- {icon: 'envelope',  link: 'mailto:yxin@caltech.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
