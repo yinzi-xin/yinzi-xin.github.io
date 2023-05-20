@@ -12,7 +12,6 @@ menu:
 projects:
 - {name: 'Photonic Lantern Nulling',   url: 'pln'}
 - {name: 'Speckle Nulling Through a Single-Mode Fiber',   url: 'sn'}
-- {name: 'Coherent Light Reconstruction', url: 'clr'}
 - {name: 'Coronagraphic Post-processing',  url: 'observables'}
 - {name: 'Deformable Mirror Demonstration Mission',  url: 'demi'}
 

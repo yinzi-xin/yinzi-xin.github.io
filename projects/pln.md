@@ -1,5 +1,10 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Photonic Lantern Nulling'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+
+I proposed the [Photonic Lantern Nuller](https://iopscience.iop.org/article/10.3847/1538-4357/ac9284) (PLN) instrument concept for the efficient detection and spectroscopic characterization of exoplanets within the diffraction limit - a regime inaccessible to conventional coronagraphs. Accessing closer-in separations would greatly increase the expected number of detectable planets, which scales inversely with the inner working angle.
+
+The PLN is a cross-aperture nuller that works by injecting light into a [Mode-Selective Photonic Lantern](https://opg.optica.org/oe/fulltext.cfm?uri=oe-22-1-1036&id=276906) (MSPL), leveraging the spatial symmetries of the device to cancel out on-axis starlight while letting off-axis planet light through. It was inspired by the [Vortex Fiber Nuller](https://iopscience.iop.org/article/10.3847/1538-4357/aae262/pdf) concept - however, a PLN retains more of the planet flux than the VFN because of its multiple ports, so its ideal sensitivity is expected to be higher.
+
+My current research includes characterizing the behavior of a MSPL in the lab and demonstrating the PLN concept on a testbed.

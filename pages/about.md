@@ -8,7 +8,9 @@ permalink: /about
 
 ![](/assets/img/website_headshot.jpg)
 
-Hi! I'm a graduate student in physics at Caltech, in the Exoplanet Technology Lab led by Dimitri Mawet. My research interests lie in optical and near-infrared instrumentation for the detection, imaging, and spectroscopy of exoplanets. Specifically, I look for ways to reduce contamination from starlight, both in hardware and through post-processing with statistical methods. I am a recipient of the NSF Graduate Research Fellowship.
+Hi! I'm a graduate student in physics at Caltech in the Exoplanet Technology Lab led by Professor Dimitri Mawet. My research interests lie in optical and near-infrared instrumentation for the detection, imaging, and spectroscopy of exoplanets. Specifically, I look for ways to reduce contamination from starlight, both in hardware and through post-processing with statistical methods.
+
+Previously, I obtained a MS in Aeronautics and Astronautics from MIT and a BS in Physics from Caltech. I am a recipient of the NSF Graduate Research Fellowship.
 
 # First-Author Publications
 
