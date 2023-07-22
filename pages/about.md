@@ -14,6 +14,8 @@ Previously, I obtained a MS in Aeronautics and Astronautics from MIT and a BS in
 
 # First-Author Publications
 
+On-sky Speckle Nulling through a Single-Mode Fiber with the Keck Planet Imager and Characterizer
+
 [Efficient Detection and Characterization of Exoplanets within the Diffraction Limit: Nulling with a Mode-selective Photonic Lantern](https://iopscience.iop.org/article/10.3847/1538-4357/ac9284)
 
 For additional information, see: [ORCID](https://orcid.org/0000-0002-6171-9081)
