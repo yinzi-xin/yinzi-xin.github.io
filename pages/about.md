@@ -14,8 +14,10 @@ Previously, I obtained a MS in Aeronautics and Astronautics from MIT and a BS in
 
 # First-Author Publications
 
+Efficient Detection and Characterization of Exoplanets within the Diffraction Limit: Nulling with a Mode-selective Photonic Lantern: [Publisher (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ac9284)
+
 On-sky Speckle Nulling through a Single-Mode Fiber with the Keck Planet Imager and Characterizer: [arXiv](https://arxiv.org/abs/2307.11893), [Publisher](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-9/issue-3/035001/On-sky-speckle-nulling-through-a-single-mode-fiber-with/10.1117/1.JATIS.9.3.035001.short?SSO=1)
 
-Efficient Detection and Characterization of Exoplanets within the Diffraction Limit: Nulling with a Mode-selective Photonic Lantern: [Publisher (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ac9284)
+Coronagraphic Data Post-processing Using Projections on Instrumental Modes [Publisher (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ad1879)
 
 For additional information, see: [ORCID](https://orcid.org/0000-0002-6171-9081)
