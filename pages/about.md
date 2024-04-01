@@ -12,6 +12,8 @@ Hi! I'm a graduate student in physics at Caltech in the Exoplanet Technology Lab
 
 Previously, I obtained a MS in Aeronautics and Astronautics from MIT and a BS in Physics from Caltech. I am a recipient of the NSF Graduate Research Fellowship.
 
+# [Curriculum Vitae]()
+
 # First-Author Publications
 
 Efficient Detection and Characterization of Exoplanets within the Diffraction Limit: Nulling with a Mode-selective Photonic Lantern: [ApJ (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ac9284)
