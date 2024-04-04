@@ -12,8 +12,6 @@ Hi! I'm a graduate student in physics at Caltech in the Exoplanet Technology Lab
 
 Previously, I obtained a MS in Aeronautics and Astronautics from MIT and a BS in Physics from Caltech. I am a recipient of the NSF Graduate Research Fellowship.
 
-# [Curriculum Vitae]()
-
 # First-Author Publications
 
 Efficient Detection and Characterization of Exoplanets within the Diffraction Limit: Nulling with a Mode-selective Photonic Lantern: [ApJ (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ac9284)
@@ -21,5 +19,7 @@ Efficient Detection and Characterization of Exoplanets within the Diffraction Li
 On-sky Speckle Nulling through a Single-Mode Fiber with the Keck Planet Imager and Characterizer: [arXiv](https://arxiv.org/abs/2307.11893), [JATIS](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-9/issue-3/035001/On-sky-speckle-nulling-through-a-single-mode-fiber-with/10.1117/1.JATIS.9.3.035001.short?SSO=1)
 
 Coronagraphic Data Post-processing Using Projections on Instrumental Modes: [ApJ (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ad1879)
+
+Laboratory demonstration of a Photonic Lantern Nuller in monochromatic and broadband light: [arXiv](https://arxiv.org/abs/2404.01426), [JATIS](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-10/issue-2/025001/Laboratory-demonstration-of-a-Photonic-Lantern-Nuller-in-monochromatic-and/10.1117/1.JATIS.10.2.025001.short)
 
 For additional information, see: [ORCID](https://orcid.org/0000-0002-6171-9081)
