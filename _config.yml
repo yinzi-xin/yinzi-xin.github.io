@@ -1,6 +1,6 @@
 title: Yinzi Xin's Research Website
 url: "https://yinzi-xin.github.io"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -13,6 +13,6 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "CV"
    link: "cv.pdf"
