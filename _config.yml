@@ -1,15 +1,11 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Yinzi Xin's Research Website
+url: "https://yinzi-xin.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -18,7 +14,5 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "CV"
+   link: "cv.pdf"
