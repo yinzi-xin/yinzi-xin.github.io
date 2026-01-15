@@ -4,16 +4,18 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="headshot.jpg">
+
+Email: xin[at]strw.leidenuniv.nl
+
+## Mode-sorting coronagraphy
 
 test
 
-## Contact
+### Publications
 
-## Research Interests
+## Wavefront sensing and control
 
-test
+### Publications
 
-## Publications
-
-test
+## Other
