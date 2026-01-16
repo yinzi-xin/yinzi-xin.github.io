@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# Home
 ## About me
 
 <img class="profile-picture" src="headshot.jpg">
@@ -11,8 +12,8 @@ Hi! I am a postdoc at Leiden University in the group of Professor Sebastiaan Haf
 Previously, I obtained a PhD in Physics at Caltech (in the Exoplanet Technology Lab led by Professor Dimitri Mawet), an MS in Aeronautics and Astronautics from MIT, and a BS in Physics from Caltech. I was a recipient of the NSF Graduate Research Fellowship.
 
 Email: xin[at]strw.leidenuniv.nl <br>
-Github: yinzi-xin <br>
-ORCID: https://orcid.org/0000-0002-6171-9081
+Github: [yinzi-xin](https://github.com/yinzi-xin) <br>
+ORCID: [https://orcid.org/0000-0002-6171-9081](https://orcid.org/0000-0002-6171-9081)
 
 ## Mode-sorting coronagraphy
 
@@ -49,4 +50,4 @@ Post-processing of coronagraphic data should take advantage of as many sources o
 Coronagraphic Data Post-processing Using Projections on Instrumental Modes: [ApJ (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ad1879)
 
 ## Other
-The Deformable Mirror Demonstration Mission (DeMi) is a cubesat developed by the STARLab at MIT. It operated from 2020 to 2021 and tested a Microelectromechanical (MEMS) Deformable Mirror in space for the first time, raising its technology readiness level from 5 to 9. I was partly responsible for aligning the payload optics, and I also wrote and tested the wavefront control algorithm, which was successfully used in orbit (see Morgan et al. 2022 for details).
+The Deformable Mirror Demonstration Mission (DeMi) is a cubesat developed by the STARLab at MIT. It operated from 2020 to 2021 and tested a Microelectromechanical (MEMS) Deformable Mirror in space for the first time, raising its technology readiness level from 5 to 9. I was partly responsible for aligning the payload optics, and I also wrote and tested the wavefront control algorithm, which was successfully used in orbit (see [Morgan et al. 2022](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12185/2630563/On-orbit-operations-summary-for-the-Deformable-Mirror-Demonstration-Mission/10.1117/12.2630563.short) for details).
