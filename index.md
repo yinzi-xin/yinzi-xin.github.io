@@ -10,8 +10,8 @@ Hi! I am a postdoc at Leiden University in the group of Professor Sebastiaan Haf
 
 Previously, I obtained a PhD in Physics at Caltech (in the Exoplanet Technology Lab led by Professor Dimitri Mawet), an MS in Aeronautics and Astronautics from MIT, and a BS in Physics from Caltech. I was a recipient of the NSF Graduate Research Fellowship.
 
-Email: xin[at]strw.leidenuniv.nl
-Github: yinzi-xin
+Email: xin[at]strw.leidenuniv.nl <br>
+Github: yinzi-xin <br>
 ORCID: https://orcid.org/0000-0002-6171-9081
 
 ## Mode-sorting coronagraphy
@@ -33,7 +33,7 @@ Implicit electric field conjugation with a Photonic Lantern Nuller: [arXiv](http
 
 Speckle nulling is an established technique for destructively interfering starlight with itself by using a deformable mirror (DM) to modulate the phase of the light. In Fall 2022, I led the the effort to perform the first on-sky demonstration of speckle nulling through a single-mode fiber with the Keck Planet Imager and Characterizer (KPIC) instrument. It is also the first demonstration of speckle nulling that uses a high-resolution spectrograph simultaneously for wavefront sensing and for science-grade spectra.
 
-Because techniques like speckle nulling and implicit electric field conjugation relies on a series of probes on the DM, we may be able to constrain the level of coherent light based on how it interferes with the probes. Improving constraints on the coherent light may be helpful in removing the effects of leaked starlight on the data.
+Because techniques like speckle nulling and implicit electric field conjugation rely on a series of probes on the DM, we may be able to constrain the level of coherent starlight based on how it interferes with the probes. Improving constraints on the coherent light may be helpful in removing the effects of leaked starlight on the data.
 
 ### First-author Publications
 On-sky Speckle Nulling through a Single-Mode Fiber with the Keck Planet Imager and Characterizer: [arXiv](https://arxiv.org/abs/2307.11893), [JATIS](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-9/issue-3/035001/On-sky-speckle-nulling-through-a-single-mode-fiber-with/10.1117/1.JATIS.9.3.035001.short?SSO=1)
