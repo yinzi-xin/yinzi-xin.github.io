@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About me
 
 <img class="profile-picture" src="headshot.jpg">
 
@@ -22,7 +22,7 @@ During my PhD, I proposed the Photonic Lantern Nuller (PLN) instrument concept f
 
 The PLN has been characterized in the lab in monochromatic and broadband light. Its performance has been improved with wavefront sensing and control techniques, and it has been demonstrated on-sky at the Subaru Telescope.
 
-### First-author Publications
+### First-author publications
 Efficient Detection and Characterization of Exoplanets within the Diffraction Limit: Nulling with a Mode-selective Photonic Lantern: [ApJ (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ac9284)
 
 Laboratory demonstration of a Photonic Lantern Nuller in monochromatic and broadband light: [arXiv](https://arxiv.org/abs/2404.01426), [JATIS](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-10/issue-2/025001/Laboratory-demonstration-of-a-Photonic-Lantern-Nuller-in-monochromatic-and/10.1117/1.JATIS.10.2.025001.short)
@@ -35,7 +35,7 @@ Speckle nulling is an established technique for destructively interfering starli
 
 Because techniques like speckle nulling and implicit electric field conjugation rely on a series of probes on the DM, we may be able to constrain the level of coherent starlight based on how it interferes with the probes. Improving constraints on the coherent light may be helpful in removing the effects of leaked starlight on the data.
 
-### First-author Publications
+### First-author publications
 On-sky Speckle Nulling through a Single-Mode Fiber with the Keck Planet Imager and Characterizer: [arXiv](https://arxiv.org/abs/2307.11893), [JATIS](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-9/issue-3/035001/On-sky-speckle-nulling-through-a-single-mode-fiber-with/10.1117/1.JATIS.9.3.035001.short?SSO=1)
 
 Implicit electric field conjugation with a Photonic Lantern Nuller: [arXiv](https://arxiv.org/pdf/2503.24292), [JATIS](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-11/issue-2/025004/Implicit-electric-field-conjugation-with-a-photonic-lantern-nuller/10.1117/1.JATIS.11.2.025004.short)
@@ -44,7 +44,7 @@ Implicit electric field conjugation with a Photonic Lantern Nuller: [arXiv](http
 
 Post-processing of coronagraphic data should take advantage of as many sources of information as it can to disentangle residual starlight from planet signal. I showed that the instrumental sensitivity of a coronagraph to wavefront error is one such source of information, and can be used to derive robust observables — a simple way to implement an instrument-motivated prior that improves the signal-to-noise ratio of planet signals.
 
-### First-author Publications
+### First-author publications
 
 Coronagraphic Data Post-processing Using Projections on Instrumental Modes: [ApJ (Open Access)](https://iopscience.iop.org/article/10.3847/1538-4357/ad1879)
 
