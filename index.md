@@ -5,7 +5,7 @@ layout: default
 # Home
 ## About me
 
-<img class="profile-picture" src="headshot.jpg">
+<img class="profile-picture" src="headshot.jpeg">
 
 Hi! I am a postdoc at Leiden University in the group of Professor Sebastiaan Haffert. My research interests lie in optical and near-infrared instrumentation for the detection, imaging, and spectroscopy of exoplanets. Specifically, I look for ways to reduce contamination from starlight, both in hardware, through instrument design and wavefront sensing and control, and in data post-processing with statistical methods.
 
